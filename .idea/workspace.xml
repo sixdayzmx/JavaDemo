@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d0700e3-f924-495b-878f-5e7315313310" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4d0700e3-f924-495b-878f-5e7315313310" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/tensquare_base/target/" />
@@ -261,7 +259,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -390,7 +388,7 @@
       <workItem from="1568426714919" duration="1298000" />
       <workItem from="1568428310909" duration="18955000" />
       <workItem from="1568510113275" duration="22581000" />
-      <workItem from="1568589778128" duration="9522000" />
+      <workItem from="1568589778128" duration="9981000" />
     </task>
     <task id="LOCAL-00001" summary="十次方项目第一次提交：&#10;已经学到第八天,熔断器阶段">
       <created>1568604223081</created>
@@ -399,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568604223081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="十次方项目第一次提交：&#10;已经学到第八天,熔断器阶段">
+      <created>1568605482492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568605482492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -429,7 +434,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88382000" />
+    <option name="totallyTimeSpent" value="88841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />

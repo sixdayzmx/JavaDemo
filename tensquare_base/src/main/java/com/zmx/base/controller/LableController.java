@@ -62,12 +62,13 @@ public class LableController {
     @RequestMapping(value = "/search",method=RequestMethod.POST)
     public Result findSearch(@RequestBody Label label){
         List<Label> list=labelService.findSearch(label);
-        return new Result(true,StatusCode.OK,"查询成功",list);
+        return new Result(true,StatusCode.OK,"查 询成功",list);
     }
 
     @RequestMapping(value = "/search/{page}/{size}",method = RequestMethod.POST)
     public Result pageQuery(@RequestBody Label label,@PathVariable int page,@PathVariable int size){
         Page<Label> pageData=labelService.pageQuery(label,page,size);
+        
         return new Result(true,StatusCode.OK,"查询成功",new PageResult<Label>(pageData.getTotalElements(),pageData.getContent()));
     }
 }
